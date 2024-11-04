@@ -7,7 +7,7 @@ Welcome to my profile! , driven by a deep passion for **cybersecurity** and **ba
 
 I’m known for my energy and determination, always focused on expanding my skills and achieving my goals. My journey has been fueled by a commitment to continuous learning, and I'm excited about what the future holds. 🌇
 
-Feel free to connect—let’s explore the world of technology together!
+Feel free to connect let’s explore the world of technology together!
 
 ---
 
