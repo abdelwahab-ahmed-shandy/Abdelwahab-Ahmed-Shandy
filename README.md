@@ -42,7 +42,6 @@
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Abdelwahab Shandy](https://www.linkedin.com/in/abdelwahab-shandy)
-- **GitHub**: [Abdelwahab-Shandy](https://github.com/abdelwahab-shandy)
-- **Medium**: [Abdelwahab-Shandy](https://medium.com/@abdelwahabshandy)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
