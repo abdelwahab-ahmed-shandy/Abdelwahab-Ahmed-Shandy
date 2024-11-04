@@ -13,7 +13,11 @@ Feel free to connect—let’s explore the world of technology together!
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-5C2D91?logo=aspnet&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0072C6?logo=networking&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
