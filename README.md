@@ -2,9 +2,12 @@
 
 ## 🧑‍💻 About Me
 
-Welcome to my profile, do not hesitate to contact me.
-My first passion is how everything and anything works online, and knowing what happens in the programming background of everything.energetic and determined to achieve my goals!🌇.
-One day I will achieve what I want .
+Welcome to my profile! , driven by a deep passion for **cybersecurity** and **backend development**. My curiosity lies in understanding the intricate workings behind everything online—what happens in the programming background, and how systems communicate and secure data.
+
+I’m known for my energy and determination, always focused on expanding my skills and achieving my goals. My journey has been fueled by a commitment to continuous learning, and I'm excited about what the future holds. 🌇
+
+Feel free to connect—let’s explore the world of technology together!
+
 ---
 
 ## 🛠️ Skills & Technologies
