@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Abdelwahab Shandy
+![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-shandy&color=blue)  
 
 ## 🧑‍💻 About Me
 
