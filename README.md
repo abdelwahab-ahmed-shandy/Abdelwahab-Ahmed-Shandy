@@ -2,14 +2,9 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I’m **Abdulwahab Shandy**, a passionate cybersecurity and backend development enthusiast. Currently, I am an **ASP.NET Backend Intern** at **EraaSoft**, where I apply my skills to develop efficient backend solutions. 
-
-Previously, I worked as a **SOC Intern** at **AMIT Learning** and completed a **cybersecurity internship** at the **Information Technology Institute (ITI)**. My journey has equipped me with a strong foundation in networking fundamentals, as well as expertise in network security, penetration testing, and bug hunting. I hold certifications from reputable platforms like **TryHackMe**, **Cisco**, **Google**, **Udemy**, and **ITI**.
-
-I have a deep curiosity about how everything works online, especially the programming intricacies that power the digital world. My energy and determination drive me to continuously pursue my goals, and I firmly believe that one day I will achieve everything I aspire to.
-
-🌟 **Let’s connect!** Don’t hesitate to reach out if you have any questions or opportunities for collaboration.
-
+Welcome to my profile, do not hesitate to contact me.
+My first passion is how everything and anything works online, and knowing what happens in the programming background of everything.energetic and determined to achieve my goals!🌇.
+One day I will achieve what I want .
 ---
 
 ## 🛠️ Skills & Technologies
