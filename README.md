@@ -17,6 +17,7 @@ Feel free to connect—let’s explore the world of technology together!
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/-MVC-5C2D91?logo=aspnet&logoColor=white)
+![API](https://img.shields.io/badge/-API-85EA2D?logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0072C6?logo=networking&logoColor=white)
@@ -32,22 +33,19 @@ Feel free to connect—let’s explore the world of technology together!
 
 ---
 
-## 🏆 CTF Activities
-- **CyberDefenders** - Network Forensics and Threat Hunting.
-- **Cybertalents** - Network Security and Digital Forensics.
-- **CTFLEARN** - Focused on Forensics.
-- **OverTheWire** - Linux and Web challenges.
-- **PortSwigger & TryHackMe** - Web vulnerabilities including IDOR, Access Control, and Information Disclosure....
-
----
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=dark)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=abdelwahab-shandy&theme=radical)
 
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-25-brightgreen)
+![Followers](https://img.shields.io/badge/Followers-100-blue)
+![Following](https://img.shields.io/badge/Following-50-orange)
 ---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
 [![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?logo=instagram&logoColor=white)](https://www.instagram.com/as__cyber/?locale=us)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AS_Cyber0)
