@@ -10,9 +10,13 @@
 
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?logo=question-circle&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-0072C6?logo=networking&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?logo=hackthebox&logoColor=white)
+![Bug Hunting](https://img.shields.io/badge/-Bug%20Hunting-4CAF50?logo=bug&logoColor=white)
 
 ---
 
@@ -27,7 +31,7 @@
 - **Cybertalents** - Network Security and Digital Forensics.
 - **CTFLEARN** - Focused on Forensics.
 - **OverTheWire** - Linux and Web challenges.
-- **PortSwigger & TryHackMe** - Web vulnerabilities including IDOR, Access Control, and Information Disclosure.
+- **PortSwigger & TryHackMe** - Web vulnerabilities including IDOR, Access Control, and Information Disclosure....
 
 ---
 
@@ -40,5 +44,5 @@
 ## 📫 Connect with Me
 - **LinkedIn**: [Abdelwahab Shandy](https://www.linkedin.com/in/abdelwahab-shandy)
 - **GitHub**: [Abdelwahab-Shandy](https://github.com/abdelwahab-shandy)
-- **Medium**: [Abdelwahab-Shandy]([https://github.com/abdelwahab-shandy](https://medium.com/@abdelwahabshandy))
+- **Medium**: [Abdelwahab-Shandy](https://medium.com/@abdelwahabshandy)
 
