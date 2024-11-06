@@ -3,10 +3,8 @@
 
 ## 🧑‍💻 About Me
 
-Welcome to my profile! , driven by a deep passion for **cybersecurity** and **backend development**. My curiosity lies in understanding the intricate workings behind everything online what happens in the programming background, and how systems communicate and secure data , I’m known for my energy and determination, always focused on expanding my skills and achieving my goals. My journey has been fueled by a commitment to continuous learning, and I'm excited about what the future holds 🌇.
-
-Feel free to connect let’s explore the world of technology together!
-
+Welcome to my profile!
+I'm an Information Systems student with a deep passion for cybersecurity and backend development. My curiosity is fueled by a desire to understand the complex inner workings of the digital world and the behind-the-scenes processes in programming. I hold accredited certifications from Google, Infosec, Cisco, TryHackMe, and the Information Technology Institute (ITI). Focused on expanding my skills, I'm on a journey of continuous learning and achievement, and I'm excited about what the future holds 🌇. Feel free to reach out, and let’s explore the world of technology together! 
 ---
 
 ## 🛠️ Skills & Technologies
