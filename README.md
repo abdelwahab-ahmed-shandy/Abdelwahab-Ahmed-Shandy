@@ -40,13 +40,18 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![Abdelwahab Shandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=dark)
+![Top Languages by Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=radical&langs_count=10)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abdelwahab-shandy&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-shandy&theme=radical)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=abdelwahab-shandy&theme=radical)
-
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-25-brightgreen)
 ![Followers](https://img.shields.io/badge/Followers-100-blue)
 ![Following](https://img.shields.io/badge/Following-50-orange)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-shandy&theme=radical)
+
+![C++](https://img.shields.io/badge/C++-45%25-blue)
+![C#](https://img.shields.io/badge/C%23-20%25-purple)
+![HTML](https://img.shields.io/badge/HTML-10%25-red)
+![CSS](https://img.shields.io/badge/CSS-5%25-purple)
 ---
 
 ## 📫 Connect with Me
