@@ -38,8 +38,6 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ## 📊 GitHub Stats
 ![Abdelwahab Shandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=dark)
 ![Top Languages by Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=radical&langs_count=10)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abdelwahab-shandy&theme=radical)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=abdelwahab-shandy&theme=radical)
