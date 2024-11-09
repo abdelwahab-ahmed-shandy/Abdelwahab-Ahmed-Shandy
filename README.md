@@ -47,7 +47,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![HTML](https://img.shields.io/badge/HTML-10%25-red)
 ![CSS](https://img.shields.io/badge/CSS-5%25-purple)
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-5-brightgreen)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-6-brightgreen)
 ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-10-red)
 ![Followers](https://img.shields.io/badge/Followers-100-blue)
 ![Following](https://img.shields.io/badge/Following-50-orange)
