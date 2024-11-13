@@ -14,17 +14,12 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square&logo=buffer&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=white)
-![API](https://img.shields.io/badge/-API-85EA2D?logo=api&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC-5C2D91?logo=aspnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0072C6?logo=networking&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?logo=hackthebox&logoColor=white)
-![Bug Hunting](https://img.shields.io/badge/-Bug%20Hunting-4CAF50?logo=bug&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-1C1C1C?logo=security&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
