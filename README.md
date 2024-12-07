@@ -34,6 +34,14 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ---
 
+## 📊 GitHub Activity
+
+### Since my journey on GitHub began:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-shandy&theme=radical)
+
+### GitHub Statistics:
+![Abdelwahab Shandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
+
 ## 📊 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-shandy&theme=radical)
 ![Abdelwahab Shandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
