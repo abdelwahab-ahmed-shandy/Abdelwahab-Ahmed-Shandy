@@ -27,7 +27,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ## 📚 Projects
 - [**Programming-Challenges-CSharp**](https://github.com/abdelwahab-shandy/Programming-Challenges-CSharp) - Advanced programming challenges in C#.
-- [**Programming-Challenges-CSharp-Using-OOP**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CSharp-Using-OOP) - Enjoy solving the challenges and mastering OOP in C#.
+- [**CSharp-OOP-Mini-Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) - A collection of small projects that demonstrate the fundamentals of object-oriented programming (OOP) using C#.
 - [**Programming Challenges in C++ - Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) - Advanced programming challenges in C++ with flowchart explanations.
 - [**Programming-Challenges-CPlusPlus-Flowcharts**](https://github.com/abdelwahab-shandy/Mini_Programs_With_Algorithms) - A collection of mini programs focused on fundamental algorithms.
 - [**Template-With-Html-And-Css**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) - This is a responsive website template built using HTML and CSS
