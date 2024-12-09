@@ -12,17 +12,18 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 🛠️ Skills & Technologies
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-008080?style=flat-square&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-F4A261?logo=question-circle&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-1D3557?logo=networking&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-2E8B57?style=flat-square&logo=csharp&logoColor=white)
+![Data Base](https://img.shields.io/badge/-Database-4B8BBE?logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-E44C30?logo=git&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF7F50?logo=question-circle&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-1B4F72?logo=networking&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-4CAF50?logo=hackthebox&logoColor=white)
-![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-2D2D2D?logo=security&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-FF5733?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-264DE4?logo=css3&logoColor=white)
+![CyberSecurity](https://img.shields.io/badge/-Cybersecurity-008000?logo=hackthebox&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/-SOC_Analyst-555555?logo=security&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
