@@ -12,10 +12,10 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 🛠️ Skills & Technologies
-![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-2E8B57?style=flat-square&logo=csharp&logoColor=white)
-![Data Base](https://img.shields.io/badge/-Database-4B8BBE?logo=database&logoColor=white)
+![Data Base](https://img.shields.io/badge/-DataBase-4B8BBE?logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E44C30?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF7F50?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1B4F72?logo=networking&logoColor=white)
