@@ -14,6 +14,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF9800?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0072C6?logo=networking&logoColor=white)
