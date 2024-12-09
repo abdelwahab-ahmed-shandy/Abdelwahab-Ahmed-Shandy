@@ -50,7 +50,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
-[![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
-[![Qabilah](https://img.shields.io/badge/-Qabilah-4A90E2?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAAA0xWRMAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAadJREFUKJGVks1KA0EQhb9hxCBFsVVBJbFwYY2CmRq2PgCRVFJrIQKswMvIBBQtpbwAXoGNugJcoAqUFhLaWOkM7MmXmRkIQ0sT93brfbRmrKlZXGV+eM453nOK4rBqiEpBBTQBXERr3XJZnUZwrSNQC11RxmMF9XplP/DoEDcHHJ80zxRA0JwIrCBYpKxZsAaLSsgUPB2WaIDrHACr6TWEOQQnhUHoRP5+zxx0I8AF+rATz6k3qB1igz1gFaD+GTP3WiP8mpzfqTWbnWok/GKXLbSjXbax+3l4vlQU60NC8LvIwAAAABJRU5ErkJggg==&logoColor=white)](https://qabilah.com/profile/abdelwahab-shandy/professional-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
+[![Qabilah](https://img.shields.io/badge/-Qabilah-1E88E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAAA0xWRMAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAadJREFUKJGVks1KA0EQhb9hxCBFsVVBJbFwYY2CmRq2PgCRVFJrIQKswMvIBBQtpbwAXoGNugJcoAqUFhLaWOkM7MmXmRkIQ0sT93brfbRmrKlZXGV+eM453nOK4rBqiEpBBTQBXERr3XJZnUZwrSNQC11RxmMF9XplP/DoEDcHHJ80zxRA0JwIrCBYpKxZsAaLSsgUPB2WaIDrHACr6TWEOQQnhUHoRP5+zxx0I8AF+rATz6k3qB1igz1gFaD+GTP3WiP8mpzfqTWbnWok/GKXLbSjXbax+3l4vlQU60NC8LvIwAAAABJRU5ErkJggg==&logoColor=white)](https://qabilah.com/profile/abdelwahab-shandy/professional-profile)
