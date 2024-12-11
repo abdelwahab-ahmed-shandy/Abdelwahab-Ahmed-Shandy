@@ -17,6 +17,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![OOP](https://img.shields.io/badge/-OOP-2E8B57?style=flat-square&logo=csharp&logoColor=white)
 ![Database](https://img.shields.io/badge/-Database-FF5733?logo=database&logoColor=white)
 ![ERD](https://img.shields.io/badge/-ERD-4B8BBE?logo=diagram&logoColor=white)
+![Relational Schemas](https://img.shields.io/badge/-Relational%20Schemas-2C9FAF?logo=table&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-E44C30?logo=git&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF7F50?logo=question-circle&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1B4F72?logo=network-wired&logoColor=white)
