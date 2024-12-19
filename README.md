@@ -41,14 +41,31 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 GitHub Activity Overview
+
+### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-shandy&theme=radical)
-![Abdelwahab Shandy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical)
-![Top Languages by Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=radical&langs_count=10)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-brightgreen)
-![Private Repositories](https://img.shields.io/badge/Private%20Repositories-10-red)
-![Followers](https://img.shields.io/badge/Followers-100-blue)
-![Following](https://img.shields.io/badge/Following-50-orange)
+
+---
+
+### 🏆 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab-shandy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-shandy&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</div>
+
+---
+
+### 📊 Repository Highlights
+- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-brightgreen)
+- **Private Repositories:** ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-10-red)
+
+---
+
+### 🌐 Social Impact
+- **Followers:** ![Followers](https://img.shields.io/badge/Followers-100-blue)
+- **Following:** ![Following](https://img.shields.io/badge/Following-50-orange)
+
 
 ---
 
