@@ -63,7 +63,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/Followers-3526-blue)](https://www.linkedin.com/in/abdelwahab-shandy/)
-[![Medium](https://img.shields.io/badge/Followers-25-brightgreen)](https://medium.com/@abdelwahabshandy)
-[![GitHub](https://img.shields.io/badge/Followers-100-blue)](https://github.com/abdelwahab-shandy)
+[![LinkedIn](https://img.shields.io/badge/Followers-3526-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
+[![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/Followers-100-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
 [![Qabilah](https://img.shields.io/badge/-Qabilah-F4A261?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAAA0xWRMAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAAadJREFUKJGVks1KA0EQhb9hxCBFsVVBJbFwYY2CmRq2PgCRVFJrIQKswMvIBBQtpbwAXoGNugJcoAqUFhLaWOkM7MmXmRkIQ0sT93brfbRmrKlZXGV+eM453nOK4rBqiEpBBTQBXERr3XJZnUZwrSNQC11RxmMF9XplP/DoEDcHHJ80zxRA0JwIrCBYpKxZsAaLSsgUPB2WaIDrHACr6TWEOQQnhUHoRP5+zxx0I8AF+rATz6k3qB1igz1gFaD+GTP3WiP8mpzfqTWbnWok/GKXLbSjXbax+3l4vlQU60NC8LvIwAAAABJRU5ErkJggg==&logoColor=white)](https://qabilah.com/profile/abdelwahab-shandy/professional-profile)
