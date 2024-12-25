@@ -13,6 +13,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ## 🛠️ Skills & Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-228B22?style=flat-square&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
@@ -22,7 +23,6 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1F618D?logo=network-wired&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=hackthebox&logoColor=white)
