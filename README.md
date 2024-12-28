@@ -52,8 +52,18 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ### 🏆 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab-ahmed-shandy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-ahmed-shandy&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=abdelwahab-ahmed-shandy&show_icons=true&theme=radical" 
+       alt="GitHub Stats" 
+       style="margin: 10px;" 
+  />
+  
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-ahmed-shandy&layout=compact&theme=radical&langs_count=10" 
+       alt="Top Languages" 
+       style="margin: 10px;" 
+  />
+  
 </div>
 
 ---
