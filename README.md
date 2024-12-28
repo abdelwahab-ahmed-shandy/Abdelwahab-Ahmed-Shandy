@@ -49,22 +49,12 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-ahmed-shandy&theme=radical)
 
 ---
-
-### 🏆 GitHub Stats
+ ### 🏆 GitHub Stats
+ 
 <div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=abdelwahab-ahmed-shandy&show_icons=true&theme=radical" 
-       alt="GitHub Stats" 
-       style="margin: 10px;" 
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-ahmed-shandy&layout=compact&theme=radical&langs_count=10" 
-       alt="Top Languages" 
-       style="margin: 10px;" 
-  />
-  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab-ahmed-shandy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-ahmed-shandy&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</div> 
 
 ---
 
@@ -75,6 +65,6 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-shandy/)
+[![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
 [![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
