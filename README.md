@@ -17,6 +17,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-228B22?style=flat-square&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Database](https://img.shields.io/badge/-Database-F39C12?logo=database&logoColor=white)
 ![EERD](https://img.shields.io/badge/-EERD-4B8BBE?logo=diagram&logoColor=white)
 ![Relational Schemas](https://img.shields.io/badge/-Relational%20Schemas-16A085?logo=table&logoColor=white)
