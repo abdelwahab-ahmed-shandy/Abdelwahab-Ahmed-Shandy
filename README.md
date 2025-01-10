@@ -23,6 +23,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![Relational Schemas](https://img.shields.io/badge/-Relational%20Schemas-16A085?logo=table&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-1572B6?logo=ef&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1F618D?logo=network-wired&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -36,12 +37,12 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📚 Projects
-- [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A collection of projects featuring Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code .
+- [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A comprehensive repository showcasing database design projects, including Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code implementation for practical use cases.
 - [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) -  A collection of small projects using CSharp And OOP.
-- [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) - Advanced programming challenges in C#.
-- [**Programming Challenges in C++ - Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) - Advanced programming challenges in C++ with flowchart explanations.
-- [**Programming Challenges CPlusPlus Flowcharts**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) - A collection of mini programs focused on fundamental algorithms.
-- [**Template With Html And Css**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) - This is a responsive website template built using HTML and CSS
+- [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) - Explore advanced multilevel programming challenges in C#, designed to enhance problem-solving and coding skills.
+- [**Programming Challenges in C++ - Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) - Dive into a series of advanced programming challenges in C++ .
+- [**Programming Challenges CPlusPlus Flowcharts**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) - A beginner-friendly collection of C++ mini-programs focusing on fundamental algorithms, supported by intuitive flowchart representations.
+- [**Template With Html And Css**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) - A sleek, fully responsive website template created with HTML and CSS
 
 ---
 
@@ -61,7 +62,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 
 ### 📊 Repository Highlights
 - **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-brightgreen)
-- **Private Repositories:** ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-10-red)
+- **Private Repositories:** ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-3-red)
   
 ---
 
