@@ -29,6 +29,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=hackthebox&logoColor=white)
 ![SOC Analyst](https://img.shields.io/badge/-SOC_Analyst-6C757D?logo=shield&logoColor=white)
+![Google](https://img.shields.io/badge/-Google-4285F4?logo=google&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-88CC14?logo=tryhackme&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
