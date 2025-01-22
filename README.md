@@ -63,7 +63,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ### 📊 Repository Highlights
-- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-brightgreen)
+- **Public Repositories:** ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-10-brightgreen)
 - **Private Repositories:** ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-3-red)
   
 ---
