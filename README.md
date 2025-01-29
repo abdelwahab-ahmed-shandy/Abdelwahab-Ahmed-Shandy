@@ -39,6 +39,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📚 Projects
+- [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) - This repository serves as a personal archive of my study materials, notes, and resources across various topics. It includes content from courses, books, research, and personal learning experiences.
 - [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) - A collection of small projects using Entity Framework Core in Code-First style in C#, demonstrating basic operations such as CRUD, migrations, and describing relationships between tables.
 - [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A comprehensive repository showcasing database design projects, including Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code implementation for practical use cases.
 - [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) -  A collection of small projects using CSharp And OOP.
