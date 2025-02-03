@@ -25,6 +25,10 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-1572B6?logo=ef&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?logo=microsoft&logoColor=white)
+![MVC Pattern](https://img.shields.io/badge/-MVC%20Pattern-007ACC?logo=csharp&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-1F618D?logo=network-wired&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
