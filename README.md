@@ -26,7 +26,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-1572B6?logo=ef&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-512BD4?logo=dotnet&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-e34c26?logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![ASP.NET API](https://img.shields.io/badge/-ASP.NET%20API-512BD4?logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
