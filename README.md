@@ -26,6 +26,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-1572B6?logo=ef&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-512BD4?logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![ASP.NET API](https://img.shields.io/badge/-ASP.NET%20API-512BD4?logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-FF5722?logo=html5&logoColor=white)
@@ -42,6 +43,7 @@ Let’s connect, collaborate, and explore the vast world of tech together!
 ---
 
 ## 📚 Projects
+- [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) - Movie Market is a web application designed to manage and share movies.
 - [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) - This repository serves as a personal archive of my study materials, notes, and resources across various topics. It includes content from courses, books, research, and personal learning experiences.
 - [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) - A collection of small projects using Entity Framework Core in Code-First style in C#, demonstrating basic operations such as CRUD, migrations, and describing relationships between tables.
 - [**Database Design with ERD EERD Relational Schemas SQL Implementation**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) - A comprehensive repository showcasing database design projects, including Enhanced Entity-Relationship Diagrams (EERDs), Relational Schemas, and SQL code implementation for practical use cases.
