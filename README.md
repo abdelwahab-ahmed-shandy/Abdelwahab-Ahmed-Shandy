@@ -89,10 +89,9 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5000 Followers-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)  
-[![Medium](https://img.shields.io/badge/Medium-30 Followers-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
-
+[![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
+[![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
 ---
 
 > ⚡ *Thanks for visiting my profile! Let's build, learn, and grow together.*
