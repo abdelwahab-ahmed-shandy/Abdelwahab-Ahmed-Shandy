@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Abdelwahab Ahmed Shandy
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
-![Custom Views](https://img.shields.io/badge/Started%20from-2000-blue)
-![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-2000+-blue)
 
 ---
 
