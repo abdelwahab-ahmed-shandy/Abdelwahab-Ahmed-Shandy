@@ -73,9 +73,8 @@
 
 | 📌 Report Title | 📈 Status | 🔗 Link |
 |----------------|----------|--------|
-| 🌐 Analyzing Suspicious Network Traffic | ✅ Completed | [Read on Medium](https://medium.com/@abdelwahabshandy/your-report-2) |
 | 🔐 Information Disclosure | ✅ Completed | [Read on Medium](https://medium.com/@abdelwahabshandy/list/information-disclosure-134407fe305c) |
-| 🛡️ Access Control Vulnerabilities | ✅ Completed | [Read on Medium](https://medium.com/@abdelwahabshandy/list/access-control-vulnerabilities-f3553255bb27) |
+| 🛡️ Access Control Vulnerabilities | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/access-control-vulnerabilities-f3553255bb27) |
 | 🧠 TryHackMe Challenges | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/try-hack-my-f24156226953) |
 | 🧩 BTLO (Break the Logic) | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/btlo-125d78a72cb6) |
 | 🔎 CyberDefenders Cases | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/cyberdefenders-c52165a30078) |
