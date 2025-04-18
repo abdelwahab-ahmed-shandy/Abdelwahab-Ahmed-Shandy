@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Abdelwahab Ahmed Shandy
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
+![Custom Views](https://img.shields.io/badge/Started%20from-2000-blue)
+![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
 
 ---
 
@@ -52,9 +54,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 📚 Platforms & Certifications
-![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+[![Google Information Technology Professional Certificate](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q)
+[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE)
+[![TryHackMe Introduction to Cyber Security](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png)
+[![TryHackMe Pre Security ](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png)
+[![TryHackMe SOC Level 1 ](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/badges/c909386b-3c65-476c-90fd-732bbeda98d9/linked_in_profile)
+[![Infosec Cybersecurity Foundations ](https://img.shields.io/badge/Infosec-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
+
 
 ---
 
