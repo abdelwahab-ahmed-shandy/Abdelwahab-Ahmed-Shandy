@@ -52,13 +52,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 📚 Platforms & Certifications
-[![Google Information Technology Professional Certificate](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q)
-[![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE)
-[![TryHackMe Introduction to Cyber Security](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png)
-[![TryHackMe Pre Security ](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png)
-[![TryHackMe SOC Level 1 ](https://img.shields.io/badge/TryHackMe-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
+
+#### 🟦 Google Certificates
+[![Google IT](https://img.shields.io/badge/Google%20IT-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q)
+[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE)
+
+#### 🟩 TryHackMe Certificates
+[![THM Intro to Cyber Security](https://img.shields.io/badge/Intro%20to%20Cyber%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png)
+[![THM Pre Security](https://img.shields.io/badge/Pre%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png)
+[![THM SOC Level 1](https://img.shields.io/badge/SOC%20Level%201-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
+
+#### 🟦 Cisco Certificate
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/badges/c909386b-3c65-476c-90fd-732bbeda98d9/linked_in_profile)
-[![Infosec Cybersecurity Foundations ](https://img.shields.io/badge/Infosec-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
+
+#### 🟪 Infosec Certificate
+[![Infosec Cybersecurity Foundations](https://img.shields.io/badge/Cybersecurity%20Foundations-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
 
 
 ---
