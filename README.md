@@ -29,13 +29,13 @@
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET API](https://img.shields.io/badge/ASP.NET%20API-512BD4?logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-1572B6?logo=ef&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-B7312C?logo=microsoftsqlserver&logoColor=white)
 
 ### 🗃️ Database Design
 ![EERD](https://img.shields.io/badge/EERD-4B8BBE?logo=diagram&logoColor=white)
 ![Relational Schemas](https://img.shields.io/badge/Relational%20Schemas-16A085?logo=table&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-F39C12?logo=database&logoColor=white)
 
 ### 🌐 Frontend & Tools
@@ -45,11 +45,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 🔐 Cybersecurity & Networking
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?logo=hackthebox&logoColor=white)
+### 🔐 Cybersecurity & Networking & Offensive Security
+![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FFD700?logo=bugcrowd&logoColor=black)
 ![SOC Analyst](https://img.shields.io/badge/SOC%20Analyst-6C757D?logo=shield&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1F618D?logo=network-wired&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Basic Networking](https://img.shields.io/badge/Networking-1F618D?logo=network-wired&logoColor=white)
+![Basic Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 📚 Platforms & Certifications
 
@@ -87,17 +87,17 @@
 
 ## 📁 Featured Projects
 
-| Project | Description |
+| Project | Description  | 📈 Status |
 |--------|-------------|
-| 🎬 [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/MovieMarket) | Web app for cinema booking & streaming with user/admin/super admin roles |
-| 📚 [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Central hub of personal notes and learning content |
-| 🧩 [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) | EF Core projects with Code-First approach |
-| 🗃️ [**Database Design with ERD & SQL**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Covers EERD, relational schemas, and SQL queries |
-| 🧠 [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) | Multi-level problem-solving challenges in C# |
-| 🧱 [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Hands-on C# projects using OOP concepts |
-| 🧠 [**C++ Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) | Advanced algorithm challenges in C++ |
-| 🧮 [**C++ Flowcharts Series**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) | Beginner-friendly programs with flowcharts |
-| 🌐 [**HTML & CSS Template**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) | Responsive modern website template |
+| 🎬 [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/MovieMarket) | Web app for cinema booking & streaming with user/admin/super admin roles | 🛠️ In Progress |
+| 📚 [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Central hub of personal notes and learning content | 🛠️ In Progress |
+| 🧩 [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) | EF Core projects with Code-First approach | ✅ Completed |
+| 🗃️ [**Database Design with ERD & SQL**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Covers EERD, relational schemas, and SQL queries | ✅ Completed |
+| 🧠 [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) | Multi-level problem-solving challenges in C# | 🛠️ In Progress |
+| 🧱 [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Hands-on C# projects using OOP concepts | 🛠️ In Progress |
+| 🧠 [**C++ Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) | Advanced algorithm challenges in C++ | 🛠️ In Progress |
+| 🧮 [**C++ Flowcharts Series**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) | Beginner-friendly programs with flowcharts | ✅ Completed |
+| 🌐 [**HTML & CSS Template**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) | Responsive modern website template | ✅ Completed |
 
 ---
 
