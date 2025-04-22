@@ -85,19 +85,19 @@
 
 ---
 
-## 📁 Featured Projects
+## 💻 Featured Projects
 
-| Project | Description  | 📈 Status |
-|--------|-------------|
-| 🎬 [**Movie Market**](https://github.com/abdelwahab-ahmed-shandy/MovieMarket) | Web app for cinema booking & streaming with user/admin/super admin roles | 🛠️ In Progress |
-| 📚 [**My Study Archive**](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Central hub of personal notes and learning content | 🛠️ In Progress |
-| 🧩 [**Entity Framework Mini Projects**](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects) | EF Core projects with Code-First approach | ✅ Completed |
-| 🗃️ [**Database Design with ERD & SQL**](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Covers EERD, relational schemas, and SQL queries | ✅ Completed |
-| 🧠 [**CSharp Multilevel Challenges**](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges) | Multi-level problem-solving challenges in C# | 🛠️ In Progress |
-| 🧱 [**CSharp OOP Mini Projects**](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Hands-on C# projects using OOP concepts | 🛠️ In Progress |
-| 🧠 [**C++ Strongest Challenge**](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge) | Advanced algorithm challenges in C++ | 🛠️ In Progress |
-| 🧮 [**C++ Flowcharts Series**](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts) | Beginner-friendly programs with flowcharts | ✅ Completed |
-| 🌐 [**HTML & CSS Template**](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css) | Responsive modern website template | ✅ Completed |
+| Project | Description | Tech Stack | Status | Demo |
+|---------|-------------|------------|--------|------|
+| 🎬 **[Movie Market](https://github.com/abdelwahab-ahmed-shandy/MovieMarket)** | Full-featured cinema platform with booking & streaming | ASP.NET MVC, EF Core, SQL Server | 🚧 In Progress | [Live Demo](#) |
+| 📚 **[Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive)** | Knowledge management system for learning resources | Markdown, Python, Jupyter | 🚧 In Progress | - |
+| 🏗️ **[EF Core Projects](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects)** | Collection of data access pattern implementations | EF Core, SQL Server, LINQ | ✅ Completed | - |
+| 🗄️ **[Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation)** | Complete DB modeling workflow | MySQL, ERD, T-SQL | ✅ Completed | [View Diagrams](#) |
+| ⚔️ **[C# Challenges](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges)** | Progressive programming challenges | C#, OOP, Algorithms | 🚧 In Progress | - |
+| 🧩 **[OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#, SOLID, Design Patterns | 🚧 In Progress | - |
+| 🧠 **[C++ Algorithms](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge)** | Advanced algorithmic solutions | C++, STL, Data Structures | 🚧 In Progress | - |
+| 📊 **[C++ Flowcharts](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts)** | Visual programming guide | C++, Flowgorithm | ✅ Completed | - |
+| 🌐 **[Web Template](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css)** | Modern responsive template | HTML5, CSS3, Bootstrap | ✅ Completed | [View Template](#) |
 
 ---
 
