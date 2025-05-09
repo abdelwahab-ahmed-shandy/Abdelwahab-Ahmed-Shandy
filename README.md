@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Abdelwahab Ahmed Shandy
 
 ![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
- [Visit My Blog on Hashnode](https://abdelwahabshandy.hashnode.dev)
+
+📘 This is my official page on Hashnode
+🔗 [My Blog on Hashnode](https://abdelwahabshandy.hashnode.dev)
 
 ---
 
