@@ -5,7 +5,7 @@
 ## 📘 My Official Tech Blog
 
 <a href="https://abdelwahabshandy.hashnode.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Visit My Blog on Hashnode"/>
+  <img src="https://img.shields.io/badge/Visit%20My%20Blog--2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Visit My Blog on Hashnode"/>
 </a>
 
 > I write about Cybersecurity, CTFs, Web vulnerabilities, and programming tips on my official blog.  
