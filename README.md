@@ -2,8 +2,14 @@
 
 ![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
 
-📘 This is my official page on Hashnode
-🔗 [My Blog on Hashnode](https://abdelwahabshandy.hashnode.dev)
+## 📘 My Official Tech Blog
+
+<a href="https://abdelwahabshandy.hashnode.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Visit My Blog on Hashnode"/>
+</a>
+
+> I write about Cybersecurity, CTFs, Web vulnerabilities, and programming tips on my official blog.  
+> Check it out and follow me on my learning journey!
 
 ---
 
