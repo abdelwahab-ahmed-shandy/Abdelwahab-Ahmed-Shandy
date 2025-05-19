@@ -77,21 +77,6 @@
 #### 🟪 Infosec Certificate
 [![Infosec Cybersecurity Foundations](https://img.shields.io/badge/Cybersecurity%20Foundations-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
 
-
-### 📄 Featured Research & Reports (Published on Medium)
-
-| 📌 Report Title | 📈 Status | 🔗 Link |
-|----------------|----------|--------|
-| 🔐 Information Disclosure | ✅ Completed | [Read on Medium](https://medium.com/@abdelwahabshandy/list/information-disclosure-134407fe305c) |
-| 🛡️ Access Control Vulnerabilities | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/access-control-vulnerabilities-f3553255bb27) |
-| 🧠 TryHackMe Challenges | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/try-hack-my-f24156226953) |
-| 🧩 BTLO (Break the Logic) | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/btlo-125d78a72cb6) |
-| 🔎 CyberDefenders Cases | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/cyberdefenders-c52165a30078) |
-| 🧬 OverTheWire Labs | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/overthewire-428baf9845ce) |
-| 🧷 CyberTalents Challenges | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/cybertalents-1a72b0923834) |
-| 🧪 Forensic Department Exercises | 🛠️ In Progress | [Read on Medium](https://medium.com/@abdelwahabshandy/list/forensic-department-1a3dc5f41234) |
-
-
 ---
 
 ## 💻 Featured Projects
