@@ -27,7 +27,6 @@
 
 ## 💼 Skills & Technologies
 
-### 👨‍💻🧱 Programming 🗃️🌐🔐
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500?logo=lightbulb&logoColor=white)
