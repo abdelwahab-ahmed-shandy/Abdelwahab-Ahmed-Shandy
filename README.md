@@ -74,8 +74,7 @@
 | 🗄️ **[Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation)** | Complete DB modeling workflow | MySQL, EERD, T-SQL | ✅ Completed | 
 | ⚔️ **[C# Challenges](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges)** | Progressive programming challenges | C#, OOP, Algorithms | ✅ Completed |
 | 🧩 **[OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#, SOLID, Design Patterns | ✅ Completed |
-| 🧠 **[CPP Algorithms](https://github.com/Abdelwahab-Shandy/Programming-Challenges-CPlusPlus-Strongest-Challenge)** | Advanced algorithmic solutions | C++, STL, Data Structures | ✅ Completed |
-| 📊 **[CPP Flowcharts](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts)** | Visual programming guide | C++, Flowgorithm | ✅ Completed |
+| 📊 **[CPP Flowcharts](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts)** | Advanced algorithmic solutions  | C++, Flowgorithm | ✅ Completed |
 | 🌐 **[Web Template](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css)** | Modern responsive template | HTML5, CSS3, Bootstrap | ✅ Completed |
 
 ---
