@@ -2,11 +2,9 @@
 
 ![Actual Views](https://komarev.com/ghpvc/?username=abdelwahab-ahmed-shandy&color=blue)
 
-<a href="https://abdelwahabshandy.hashnode.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Blog--2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Visit My Blog on Hashnode"/>
-</a>
+[![Visit My Blog](https://img.shields.io/badge/Visit%20My%20Blog--2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://abdelwahabshandy.hashnode.dev)
 
-> I write about Cybersecurity, CTFs, Web vulnerabilities, and programming tips on my official blog.  
+> I write about **Cybersecurity**, **CTFs**, **Web Vulnerabilities**, and **Programming Tips** on my official blog.  
 > Check it out and follow me on my learning journey!
 
 ---
