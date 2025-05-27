@@ -69,13 +69,11 @@
 |---------|-------------|------------|--------|
 | 🎬 **[Brain Sprint](https://github.com/abdelwahab-ahmed-shandy/Brain-Sprint)** | Full-featured LMS platform with Cources & Exam | C#, OOP, ASP.NET MVC, EF Core, SQL Server, SOLID | 🚧 In Progress |
 | 🎬 **[Movie Market](https://github.com/abdelwahab-ahmed-shandy/MovieMarket)** | Full-featured VOD Platform with booking & streaming | ASP.NET MVC, EF Core, SQL Server | 🚧 In Progress |
-| 📚 **[Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive)** | Knowledge management system for learning resources | Markdown, C++, C#, OOP | 🚧 In Progress |
-| 🏗️ **[EF Core](https://github.com/abdelwahab-ahmed-shandy/EntityFramework-Mini-Projects)** | Collection of data access pattern implementations | EF Core, SQL Server, LINQ | ✅ Completed |
 | 🗄️ **[Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation)** | Complete DB modeling workflow | MySQL, EERD, T-SQL | ✅ Completed | 
-| ⚔️ **[C# Challenges](https://github.com/abdelwahab-ahmed-shandy/CSharp-Multilevel-Challenges)** | Progressive programming challenges | C#, OOP, Algorithms | ✅ Completed |
-| 🧩 **[OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#, SOLID, Design Patterns | ✅ Completed |
-| 📊 **[CPP Flowcharts](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-CPlusPlus-Flowcharts)** | Advanced algorithmic solutions  | C++, Flowgorithm | ✅ Completed |
-| 🌐 **[Web Template](https://github.com/abdelwahab-shandy/Template-With-Html-And-Css)** | Modern responsive template | HTML5, CSS3, Bootstrap | ✅ Completed |
+| 📚 **[Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive)** | Knowledge management system for learning resources | Markdown, C++, C#, OOP, EF Core,LINQ | ✅ Completed |
+| ⚔️ **[Programming-Challenges-Multi-Language](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language)** | Progressive programming challenges | Flowgorithm, C#, OOP, Algorithms, SOLID, Design Patterns | ✅ Completed |
+| 🧩 **[OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#,  | ✅ Completed |
+| 📊 **[Arduino-Calculator-4x4-Keypad-LCD](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD)** |  An Arduino-based calculator using a 4x4 keypad and I2C LCD  | Arduino Uno, 4x4 Keypad	 | ✅ Completed |
 
 ---
 
