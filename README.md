@@ -72,7 +72,7 @@
 | 🗄️ **[Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation)** | Complete DB modeling workflow | MySQL, EERD, T-SQL | ✅ Completed | 
 | 📚 **[Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive)** | Knowledge management system for learning resources | Markdown, C++, C#, OOP, EF Core,LINQ | ✅ Completed |
 | ⚔️ **[Programming-Challenges-Multi-Language](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language)** | Progressive programming challenges | Flowgorithm, C#, OOP, Algorithms, SOLID, Design Patterns | ✅ Completed |
-| 🧩 **[OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#,  | ✅ Completed |
+| 🧩 **[OOP Mini Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#,  | ✅ Completed |
 | 📊 **[Arduino-Calculator-4x4-Keypad-LCD](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD)** |  An Arduino-based calculator using a 4x4 keypad and I2C LCD  | Arduino Uno, 4x4 Keypad	 | ✅ Completed |
 
 ---
