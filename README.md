@@ -21,8 +21,6 @@
 🎯 Currently on a journey of **continuous learning**, equipped with certifications from:
 **Google**, **Infosec**, **Cisco**, **TryHackMe**, and **ITI (Information Technology Institute)**.
 
-> 🚀 Let’s connect, collaborate, and explore the future of tech together!
-
 ---
 
 ## 💼 Skills & Technologies
@@ -53,27 +51,29 @@
 
 ### 📚 Platforms & Certifications
 
-[![Google IT](https://img.shields.io/badge/Google%20IT-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q)
-[![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE)
-[![THM Intro to Cyber Security](https://img.shields.io/badge/Intro%20to%20Cyber%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png)
-[![THM Pre Security](https://img.shields.io/badge/Pre%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png)
-[![THM SOC Level 1](https://img.shields.io/badge/SOC%20Level%201-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/badges/c909386b-3c65-476c-90fd-732bbeda98d9/linked_in_profile)
-[![Infosec Cybersecurity Foundations](https://img.shields.io/badge/Cybersecurity%20Foundations-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
+[Google IT](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q) •  
+[Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE) •  
+[Intro to Cyber Security (THM)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png) •  
+[Pre Security (THM)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png) •  
+[SOC Level 1 (THM)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png) •  
+[Cisco Badge](https://www.credly.com/badges/c909386b-3c65-476c-90fd-732bbeda98d9/linked_in_profile) •  
+[Cybersecurity Foundations (Infosec)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
 
 ---
 
 ## 💻 Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎬 **[Brain Sprint](https://github.com/abdelwahab-ahmed-shandy/Brain-Sprint)** | Full-featured LMS platform with Cources & Exam | C#, OOP, ASP.NET MVC, EF Core, SQL Server, SOLID | 🚧 In Progress |
-| 🎬 **[Movie Market](https://github.com/abdelwahab-ahmed-shandy/MovieMarket)** | Full-featured VOD Platform with booking & streaming | ASP.NET MVC, EF Core, SQL Server | 🚧 In Progress |
-| 🗄️ **[Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation)** | Complete DB modeling workflow | MySQL, EERD, T-SQL | ✅ Completed | 
-| 📚 **[Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive)** | Knowledge management system for learning resources | Markdown, C++, C#, OOP, EF Core,LINQ | ✅ Completed |
-| ⚔️ **[Programming-Challenges-Multi-Language](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language)** | Progressive programming challenges | Flowgorithm, C#, OOP, Algorithms, SOLID, Design Patterns | ✅ Completed |
-| 🧩 **[OOP Mini Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects)** | Practical OOP implementations | C#,  | ✅ Completed |
-| 📊 **[Arduino-Calculator-4x4-Keypad-LCD](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD)** |  An Arduino-based calculator using a 4x4 keypad and I2C LCD  | Arduino Uno, 4x4 Keypad	 | ✅ Completed |
+## 🚀 Projects
+
+| Name | Description | Tech | Status |
+|------|-------------|------|--------|
+| 🎬 [Brain Sprint](https://github.com/abdelwahab-ahmed-shandy/Brain-Sprint) | LMS platform with courses and exams | ASP.NET MVC, EF Core | 🚧 In Progress |
+| 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/MovieMarket) | Movie booking and streaming | ASP.NET MVC, SQL Server | 🚧 In Progress |
+| 🗂️ [Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
+| 📚 [Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
+| 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
+| 🧩 [Mini OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Practice with OOP | C#, C++, OOP | ✅ Completed |
+| 📟 [Arduino Calculator](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD) | Simple Arduino project | Arduino, Keypad, LCD | ✅ Completed |
 
 ---
 
@@ -95,6 +95,6 @@
 [![LinkedIn](https://img.shields.io/badge/Followers-4000-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelwahab-ahmed-shandy/)
 [![Medium](https://img.shields.io/badge/Followers-25-brightgreen?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdelwahabshandy)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelwahab-shandy)
----
 
 > ⚡ *Thanks for visiting my profile Let's build, learn, and grow together*
+> 🚀 Let’s connect, collaborate, and explore the future of tech together!
