@@ -60,8 +60,7 @@
 
 | Name | Description | Tech | Status |
 |------|-------------|------|--------|
-| 💡 [Brain Sprint](https://github.com/abdelwahab-ahmed-shandy/Brain-Sprint) | LMS platform with courses and exams | ASP.NET MVC, EF Core | 🚧 In Progress |
-| 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/MovieMarket) | Movie booking and streaming | ASP.NET MVC, SQL Server | 🚧 In Progress |
+| 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) | Movie booking and streaming | ASP.NET MVC, SQL Server | 🚧 In Progress |
 | 🗂️ [Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
 | 📚 [Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
 | 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
