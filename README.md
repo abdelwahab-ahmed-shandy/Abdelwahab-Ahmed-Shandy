@@ -62,10 +62,10 @@
 |------|-------------|------|--------|
 | 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) | Movie booking and streaming | ASP.NET MVC, SQL Server | 🚧 In Progress |
 | 🗂️ [Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
-| 📚 [Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
 | 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
 | 🧩 [Mini OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Practice with OOP | C#, C++, OOP | ✅ Completed |
 | 📟 [Arduino Calculator](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD) | Simple Arduino project | Arduino, Keypad, LCD | ✅ Completed |
+| 📚 [Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
 
 ---
 
