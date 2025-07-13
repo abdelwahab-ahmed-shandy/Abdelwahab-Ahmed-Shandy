@@ -65,7 +65,7 @@
 | 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | 🚧 In Progress |
 | 🧩 [Mini OOP Projects](https://github.com/Abdelwahab-Shandy/CSharp-OOP-Mini-Projects) | Practice with OOP | C#, C++, OOP | 🚧 In Progress |
 | 📟 [Arduino Calculator](https://github.com/abdelwahab-ahmed-shandy/Arduino-Calculator-4x4-Keypad-LCD) | Simple Arduino project | Arduino, Keypad, LCD | ✅ Completed |
-| 📚 [Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
+| 📚 [Complete Study Archive](https://github.com/abdelwahab-ahmed-shandy/My-Study-Archive) | Notes and resources | C++, C#, EF Core | ✅ Completed |
 
 ---
 
