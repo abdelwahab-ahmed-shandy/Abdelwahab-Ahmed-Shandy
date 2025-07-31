@@ -51,6 +51,9 @@
 [![THM SOC Level 1](https://img.shields.io/badge/SOC%20Level%201-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/badges/c909386b-3c65-476c-90fd-732bbeda98d9/linked_in_profile)
 [![Cybersecurity Foundations (Infosec)](https://img.shields.io/badge/Cybersecurity%20Foundations-5E3AA0?logo=security&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/TDLQWLASGRSV)
+[![HCCDA - Tech Essentials](https://img.shields.io/badge/Huawei%20HCCDA-FF0000?logo=Huawei&logoColor=white)](https://www.linkedin.com/posts/abdelwahab-ahmed-shandy_huaweiict-hccda-itisummertraining-activity-7353073714185342976-RVN_?utm_source=share&utm_medium=member_desktop)
+[![Digital Forensics Essentials](https://img.shields.io/badge/Digital%20Forensics-964B00?logo=simpleicons&logoColor=white)](https://www.linkedin.com/posts/abdelwahab-ahmed-shandy_digitalforensics-cybersecurity-dfir-activity-7355442301449465856-OOFz?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
