@@ -39,6 +39,7 @@
 
 [![Google IT](https://img.shields.io/badge/Google%20IT-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/Q3VLSMMTT92Q)
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/S8WNUGABPSRE)
+[![ITI Network Security](https://img.shields.io/badge/ITI%20Network%20Security-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7125844809298194432/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7125844809298194432%29)
 [![THM Intro to Cyber Security](https://img.shields.io/badge/Intro%20to%20Cyber%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y8OSU58WFX.png)
 [![THM Pre Security](https://img.shields.io/badge/Pre%20Security-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KMB2V4BNQ7.png)
 [![THM SOC Level 1](https://img.shields.io/badge/SOC%20Level%201-88CC14?logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3SQBPBNHY6.png)
