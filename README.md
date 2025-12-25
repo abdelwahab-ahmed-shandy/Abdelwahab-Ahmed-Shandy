@@ -71,12 +71,6 @@
 ### 🔥 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdelwahab-ahmed-shandy&theme=radical)
 
-### 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab-ahmed-shandy&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab-ahmed-shandy&layout=compact&theme=radical&langs_count=10" />
-</div>
-
 ---
 
 ## 🌐 Let's Connect
