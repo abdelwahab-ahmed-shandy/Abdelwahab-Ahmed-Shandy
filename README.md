@@ -8,11 +8,12 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm an **Information Systems student** with a deep passion for **Cybersecurity** and **.NET Backend Development**.  
-💡 Curious by nature, I love digging into how things work behind the scenes — from backend logic to security vulnerabilities.
+**Information Systems student focused on Defensive Security, with hands-on experience in SOC
+operations, network security, and IT fundamentals, seeking an entry-level role in SOC, Network
+Engineering, IT or Network security.**
 
 🎯 Currently on a journey of **continuous learning**, equipped with certifications from:
-**Google**, **Infosec**, **Cisco**, **TryHackMe**, and **ITI (Information Technology Institute)**.
+**Google**, **Infosec**, **Cisco**, **TryHackMe**, **NTI** and **ITI**.
 
 ---
 
