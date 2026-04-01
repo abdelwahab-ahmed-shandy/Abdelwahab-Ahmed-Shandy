@@ -52,7 +52,7 @@ Engineering, IT or Network security.**
 
 | Name | Description | Tech | Status |
 |------|-------------|------|--------|
-| 🪛 [Enterprise Infrastructure Simulation](https://github.com/abdelwahab-ahmed-shandy/Enterprise-Infrastructure-Simulation) | A structured collection of hands-on labs covering Windows Server administration, networking, and security in enterprise environments. | Windows Server, Networking, SQL Server |  Completed |
+| 🪛 [Enterprise Infrastructure Simulation](https://github.com/abdelwahab-ahmed-shandy/Enterprise-Infrastructure-Simulation) | A structured collection of hands-on labs covering Windows Server administration, networking, and security in enterprise environments. | Windows Server, Networking, SQL Server | ✅ Completed |
 | 🎥 [Movie Market](https://github.com/abdelwahab-ahmed-shandy/Movie-Market) | Movie booking and streaming | ASP.NET MVC, SQL Server | ✅ Completed |
 | 🗂️ [Database Design](https://github.com/Abdelwahab-Shandy/Database-Design-with-ERD-EERD-Relational-Schemas-SQL-Implementation) | Full DB modeling | MySQL, EERD, SQL | ✅ Completed |
 | 🧠 [Multi-Language Challenges](https://github.com/abdelwahab-ahmed-shandy/Programming-Challenges-Multi-Language) | Programming tasks | C#, C++, Flowgorithm, OOP | ✅ Completed |
