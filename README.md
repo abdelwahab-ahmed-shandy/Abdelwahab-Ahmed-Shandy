@@ -8,12 +8,13 @@
 
 ## 🧑‍💻 About Me
 
-**Information Systems student focused on Defensive Security, with hands-on experience in SOC
-operations, network security, and IT fundamentals, seeking an entry-level role in SOC, Network
-Engineering, IT or Network security.**
+Welcome to my profile — feel free to reach out anytime.
 
-🎯 Currently on a journey of **continuous learning**, equipped with certifications from:
-**Google**, **Infosec**, **Cisco**, **TryHackMe**, **NTI** and **ITI**.
+I’m an Information Systems student with a strong interest in cybersecurity and backend development. I enjoy exploring how systems work, understanding security threats, and building solutions that enhance reliability and security.
+
+I have earned certifications from Google, Cisco, Infosec, TryHackMe, CyberTalents, WE INNOVATE, NTI, and the Information Technology Institute (ITI). I continuously work on developing my technical and analytical skills through hands-on practice and real-world scenarios.
+
+Currently, I am focused on SOC operations, Detection Engineering, and enterprise security, and I am seeking opportunities where I can apply my knowledge and continue to grow.
 
 ---
 
